@@ -1,5 +1,5 @@
-Created a custom rsi with a line at 50
-Then colored at overbought and oversold
+//Created a custom rsi with a line at 50
+//Then colored at overbought and oversold
 
 //@version=4
 //d91gherghel
