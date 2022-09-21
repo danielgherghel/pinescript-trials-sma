@@ -1,5 +1,5 @@
-Other MACD developed by Chris Mody
-Modified by myself in certain areas
+//Other MACD developed by Chris Mody
+//Modified by myself in certain areas
 
 //@version=4
 study(title="_CM_MacD_Ult_MTF_V2.1", shorttitle="MACD_Daniel'scustom")
