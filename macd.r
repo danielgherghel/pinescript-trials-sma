@@ -1,4 +1,4 @@
-Custom MACD created by ChrisMoody
+//Custom MACD created by ChrisMoody
 
 //Update 08-24-2021
 //Thanks for @sktennis for help with code
